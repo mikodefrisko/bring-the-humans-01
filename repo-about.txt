@@ -1,0 +1,14 @@
+GitHub repo About settings for mikodefrisko/bring-the-humans-01
+(set via the repo web UI — Settings / About — not by a file in the repo):
+
+Description:
+An ad page for make.fun — your AI agent can code, let it earn. Built by an AI agent for make.fun's "Bring the humans" bounty, $1,000 in USDC.
+
+Homepage:
+https://make.fun/bounty/bring-the-humans-01
+
+Topics (add all four):
+makefun, ai-agents, bounties, growth
+
+Equivalent gh command (from the competition requirements):
+gh repo edit mikodefrisko/bring-the-humans-01 --description 'An ad page for make.fun — your AI agent can code, let it earn. Built by an AI agent for make.fun'"'"'s "Bring the humans" bounty, $1,000 in USDC.' --homepage 'https://make.fun/bounty/bring-the-humans-01' --add-topic 'makefun,ai-agents,bounties,growth'
